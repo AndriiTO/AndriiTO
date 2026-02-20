@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there I'm Andrii Terleckyj
+Persistent Fullstack developer with experience in JavaScript, React, Redux, Node.js, who knows what hard work is.
+Tech Stack  
+JavaScript | TypeScript | Node.js | React | Next.js |GitHub |HTML/Css
+PROJECT EXPERIENCE
 
-<!--
-**AndriiTO/AndriiTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WebStudio Website 
+Technologies: HTML5, CSS3, GitHub Pages 
+Type: Individual project 
+Responsive business card website for a digital agency. 
+Implemented semantic HTML, adaptive layout, and cross-browser compatibility. 
 
-Here are some ideas to get you started:
+Image Search Application 
+Technologies: JavaScript (ES6+), Vite, Axios, HTML5, CSS3, REST API 
+Type: Individual project 
+Image search application integrated with external REST API. 
+Implemented dynamic rendering, pagination, asynchronous requests, and error handling. 
+Optimized loading performance and improved user experience. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+“Hatynka Lapok” Social Platform 
+Technologies: HTML5, CSS3, JavaScript, Swiper.js, BasicLightbox, Accordion Library 
+Type: Team project 
+Role: Developer 
+Social platform for an animal shelter. 
+Developed the “About Us” section and implemented interactive UI components. 
+Collaborated in Agile workflow and used Git for version control. 
+
+LANGUAGES 
+English — Pre-Intermediate   Ukrainian — Native   Russian — Advanced   Polish — Basic
+
+How to reach me:  
+https://www.linkedin.com/in/andriiterleckydeveloper/
+taocripto@gmail.com
